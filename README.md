@@ -5,14 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/HimanshuNim">
-    <img src="https://img.shields.io/github/followers/HimanshuNim?label=Followers&style=flat-square&color=58A6FF&labelColor=161B22" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=HimanshuNim&label=Profile%20Views&style=flat-square&color=58A6FF&labelColor=161B22" />
+  <i>Building software, solving problems, and exploring the intersection of hardware and code.</i>
 </p>
 
 <p align="center">
-  <i>Building software, solving problems, and exploring the intersection of hardware and code.</i>
+  <img src="https://komarev.com/ghpvc/?username=himanshunim&label=Profile%20Views&style=flat-square&color=58A6FF&labelColor=161B22" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/himanshunim?label=Followers&style=flat-square&color=58A6FF&labelColor=161B22" alt="GitHub Followers"/>
 </p>
 
 ---
@@ -32,18 +30,19 @@ public class HimanshuNimrad {
         "Microservices",
         "Data Structures & Algorithms",
         "AI Integration",
-        "IoT & Embedded Systems"
+        "IoT & Embedded Systems",
+        "RF & Antenna Design"
     };
 
     String currentlyLearning = "AI Integration";
 }
 ```
 
-I'm an **Electronics & Communication Engineer** transitioning deeply into software development.
+I'm an **Electronics & Communication Engineer** with a strong focus on software development.
 
-My primary focus is **Java backend development**, with an interest in building scalable applications, working with databases, solving DSA problems, and understanding how distributed systems work.
+My primary focus is **Java backend development**, with an interest in building applications, working with databases, solving DSA problems, and exploring backend architecture and microservices.
 
-My ECE background also gives me a different perspective on software, especially around **IoT, embedded systems, communication systems, and antenna design**.
+My ECE background gives me an additional perspective on **IoT, embedded systems, RF engineering, communication systems, and antenna design**.
 
 ---
 
@@ -51,7 +50,7 @@ My ECE background also gives me a different perspective on software, especially 
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Backend Development
 
@@ -65,7 +64,7 @@ My ECE background also gives me a different perspective on software, especially 
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Problem Solving
 
@@ -82,7 +81,7 @@ My ECE background also gives me a different perspective on software, especially 
 
 ---
 
-## `tech_stack`
+# `tech_stack`
 
 ### Languages
 
@@ -105,7 +104,15 @@ My ECE background also gives me a different perspective on software, especially 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,android,arduino,matlab" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,android,arduino" />
+</p>
+
+### Engineering & Simulation
+
+<p>
+<img src="https://img.shields.io/badge/CST%20Studio%20Suite-Electromagnetic%20Simulation-005386?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RF%20%26%20Microwave-Engineering-161B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IoT-Development-161B22?style=for-the-badge" />
 </p>
 
 ---
@@ -114,6 +121,7 @@ My ECE background also gives me a different perspective on software, especially 
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ## Student Management System
@@ -131,8 +139,8 @@ A Java-based application for managing student information and records.
 * CRUD operations
 * Object-oriented architecture
 
-<a href="https://github.com/HimanshuNim">
-  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white" />
+<a href="https://github.com/himanshunim">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -154,14 +162,16 @@ A Java application designed to manage books, users and library operations.
 * Search functionality
 * Database-driven operations
 
-<a href="https://github.com/HimanshuNim">
-  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white" />
+<a href="https://github.com/himanshunim">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ## Android Geofencing Safety App
@@ -179,8 +189,8 @@ An Android application that monitors predefined geographic boundaries and trigge
 * Entry/exit detection
 * Safety notifications
 
-<a href="https://github.com/HimanshuNim">
-  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white" />
+<a href="https://github.com/himanshunim">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -189,24 +199,26 @@ An Android application that monitors predefined geographic boundaries and trigge
 
 ## Reconfigurable Antenna for IoT
 
-Academic research project focused on frequency reconfiguration for IoT applications using PIN diode switching.
+A reconfigurable microstrip antenna designed and simulated for IoT applications using PIN diode switching.
 
 **Built with**
 
-`MATLAB` `RF` `Antenna Design` `IoT`
+`CST Studio Suite` `RF` `Antenna Design` `IoT`
 
 **Highlights**
 
-* Reconfigurable antenna
+* Reconfigurable microstrip antenna
 * PIN diode switching
 * S-parameter analysis
 * VSWR analysis
+* Electromagnetic simulation
 
-<a href="https://github.com/HimanshuNim">
-  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white" />
+<a href="https://github.com/himanshunim">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -215,17 +227,17 @@ Academic research project focused on frequency reconfiguration for IoT applicati
 # `github_analytics`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshuNim&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshunim&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HimanshuNim&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HimanshuNim&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshunim&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshunim&theme=github_dark" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HimanshuNim&theme=github_dark&utcOffset=5.5" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HimanshuNim&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshunim&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshunim&theme=github_dark&utcOffset=5.5" width="49%" />
 </p>
 
 ---
@@ -234,9 +246,9 @@ Academic research project focused on frequency reconfiguration for IoT applicati
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuNim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=himanshunim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
     width="100%"
-    alt="Contribution Activity Graph"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
@@ -246,7 +258,7 @@ Academic research project focused on frequency reconfiguration for IoT applicati
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuNim&theme=github-dark-blue&hide_border=true"
+    src="https://streak-stats.demolab.com?user=himanshunim&theme=github-dark-blue&hide_border=true"
     width="100%"
     alt="GitHub Contribution Streak"
   />
@@ -258,7 +270,7 @@ Academic research project focused on frequency reconfiguration for IoT applicati
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=HimanshuNim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+    src="https://github-profile-trophy.vercel.app/?username=himanshunim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
     width="100%"
     alt="GitHub Trophies"
   />
@@ -271,11 +283,11 @@ Academic research project focused on frequency reconfiguration for IoT applicati
 <p align="center">
 
 <a href="https://leetcode.com/code-himanshuuu/">
-<img src="https://img.shields.io/badge/LeetCode-code--himanshuuu-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-code--himanshuuu-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/himanshunimgfg/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-himanshunimgfg-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-himanshunimgfg-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </p>
@@ -287,15 +299,15 @@ Academic research project focused on frequency reconfiguration for IoT applicati
 <p align="center">
 
 <a href="https://linkedin.com/in/himanshu-nimrad">
-<img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Nimrad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Nimrad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:himanshunimrad@gmail.com">
-<img src="https://img.shields.io/badge/Email-himanshunimrad-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-himanshunimrad-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/himanshu_nimrad">
-<img src="https://img.shields.io/badge/Instagram-himanshu__nimrad-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-himanshu__nimrad-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -303,13 +315,5 @@ Academic research project focused on frequency reconfiguration for IoT applicati
 ---
 
 <p align="center">
-
-<a href="https://github.com/HimanshuNim">
-  <img src="https://img.shields.io/badge/GitHub-HimanshuNim-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-  <sub>Made with Java, curiosity, and too many commits.</sub>
+  <sub>Building software, solving problems, and occasionally debugging both.</sub>
 </p>

@@ -14,11 +14,6 @@ ECE Engineer • Java Developer • DSA Enthusiast
     <img src="https://img.shields.io/github/followers/HimanshuNim?label=Followers&style=flat" alt="GitHub Followers"/>
   </a>
 </p>
-
-
----
-
-
 ## About Me
 
 
@@ -37,15 +32,8 @@ I enjoy building backend applications, solving problems with Java and DSA, and e
 
 
 > I work with both electromagnetic waves and Java threads.
-
-
----
-
-
 ## What I'm Working On
 
-
-```text
 Java Backend Development     ███████████████████░░   90%
 Data Structures & Algorithms █████████████████░░░░   80%
 Spring Boot & Microservices  ████████████████░░░░░   75%
@@ -100,4 +88,4 @@ Coding Profiles
 <p align="center"> <a href="https://leetcode.com/code-himanshuuu/"> <img src="https://img.shields.io/badge/LeetCode-code--himanshuuu-orange?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> <a href="https://www.geeksforgeeks.org/user/himanshunimgfg/"> <img src="https://img.shields.io/badge/GeeksforGeeks-himanshunimgfg-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> </p>
 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/himanshu-nimrad"> <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Nimrad-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:himanshunimrad@gmail.com"> <img src="https://img.shields.io/badge/Email-himanshunimrad%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/himanshu_nimrad"> <img src="https://img.shields.io/badge/Instagram-himanshu__nimrad-purple?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
-<p align="center"> <i>Building software, solving problems, and occasionally debugging both.</i> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=HimanshuNim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p> ```
+<p align="center"> <i>Building software, solving problems, and occasionally debugging both.</i> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=HimanshuNim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p>

@@ -1,91 +1,315 @@
-<h1 align="center">Hi, I'm Himanshu Nimrad</h1>
+# Himanshu Nimrad
 
-
-<h3 align="center">
-ECE Engineer • Java Developer • DSA Enthusiast
-</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Java+Developer;Backend+%26+Microservices+Enthusiast;DSA+Problem+Solver;ECE+Engineer+%7C+Software+Developer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://github.com/HimanshuNim">
-    <img src="https://komarev.com/ghpvc/?username=HimanshuNim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/HimanshuNim?label=Followers&style=flat-square&color=58A6FF&labelColor=161B22" />
   </a>
-  <a href="https://github.com/HimanshuNim?tab=followers">
-    <img src="https://img.shields.io/github/followers/HimanshuNim?label=Followers&style=flat" alt="GitHub Followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=HimanshuNim&label=Profile%20Views&style=flat-square&color=58A6FF&labelColor=161B22" />
 </p>
-## About Me
 
+<p align="center">
+  <i>Building software, solving problems, and exploring the intersection of hardware and code.</i>
+</p>
 
-I'm an Electronics & Communication Engineer with a strong interest in software development.
+---
 
+## `whoami`
 
-I enjoy building backend applications, solving problems with Java and DSA, and exploring how software and hardware can work together.
+```java
+public class HimanshuNimrad {
 
+    String role = "Software Developer";
+    String primaryStack = "Java + Spring Boot";
+    String focus = "Backend Development & DSA";
+    String background = "Electronics & Communication Engineering";
 
-- Currently learning **AI Integration**
-- Building with **Java & Spring Boot**
-- Practicing **Data Structures & Algorithms**
-- Interested in **Backend Development & Microservices**
-- Background in **Electronics, Antenna Design & IoT**
-- Based in **India**
+    String[] interests = {
+        "Backend Systems",
+        "Microservices",
+        "Data Structures & Algorithms",
+        "AI Integration",
+        "IoT & Embedded Systems"
+    };
 
+    String currentlyLearning = "AI Integration";
+}
+```
 
-> I work with both electromagnetic waves and Java threads.
-## What I'm Working On
+I'm an **Electronics & Communication Engineer** transitioning deeply into software development.
 
-Java Backend Development     ███████████████████░░   90%
-Data Structures & Algorithms █████████████████░░░░   80%
-Spring Boot & Microservices  ████████████████░░░░░   75%
-AI Integration               ████████████░░░░░░░░░   60%
-Frontend Development         ███████████░░░░░░░░░░   55%
-Tech Stack
-Languages
-<p align="left"> <a href="https://www.java.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/> </a> <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/> </a> <a href="https://isocpp.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/> </a> <a href="https://www.cprogramming.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> </a> </p>
-Backend & Databases
-<p align="left"> <a href="https://spring.io/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/> </a> <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> </a> <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/> </a> <a href="https://nodejs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/> </a> </p>
-Frontend
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/> </a> <a href="https://react.dev/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/> </a> <a href="https://tailwindcss.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/> </a> </p>
-Tools & Platforms
-<p align="left"> <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/> </a> <a href="https://github.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> </a> <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/> </a> <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/> </a> <a href="https://www.arduino.cc/"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45" height="45" alt="Arduino"/> </a> </p>
-Featured Projects
-<table> <tr> <td width="50%">
-Student Management System
+My primary focus is **Java backend development**, with an interest in building scalable applications, working with databases, solving DSA problems, and understanding how distributed systems work.
 
-Java-based application for managing student records and information.
+My ECE background also gives me a different perspective on software, especially around **IoT, embedded systems, communication systems, and antenna design**.
 
-Tech: Java • MySQL • OOP • JDBC
+---
 
-<a href="https://github.com/HimanshuNim"> View Repository → </a> </td> <td width="50%">
-Library Management System
+## `current_focus`
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend Development
+
+* Java
+* Spring Boot
+* REST APIs
+* Microservices
+* MySQL
+* MongoDB
+* Docker
+
+</td>
+
+<td width="50%">
+
+### Problem Solving
+
+* Data Structures
+* Algorithms
+* Object-Oriented Programming
+* Competitive Programming
+* LeetCode
+* GeeksforGeeks
+
+</td>
+</tr>
+</table>
+
+---
+
+## `tech_stack`
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb,docker" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,android,arduino,matlab" />
+</p>
+
+---
+
+# `featured_projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## Student Management System
+
+A Java-based application for managing student information and records.
+
+**Built with**
+
+`Java` `MySQL` `JDBC` `OOP`
+
+**Highlights**
+
+* Student record management
+* Database integration
+* CRUD operations
+* Object-oriented architecture
+
+<a href="https://github.com/HimanshuNim">
+  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## Library Management System
 
 A Java application designed to manage books, users and library operations.
 
-Tech: Java • MySQL • OOP
+**Built with**
 
-<a href="https://github.com/HimanshuNim"> View Repository → </a> </td> </tr> <tr> <td width="50%">
-Android Geofencing Safety App
+`Java` `MySQL` `OOP`
 
-Android application that detects when users enter or leave predefined geographical boundaries and sends alerts.
+**Highlights**
 
-Tech: Android • Java • Geofencing • Location Services
+* Book management
+* User management
+* Search functionality
+* Database-driven operations
 
-<a href="https://github.com/HimanshuNim"> View Repository → </a> </td> <td width="50%">
-Reconfigurable Antenna for IoT
+<a href="https://github.com/HimanshuNim">
+  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white" />
+</a>
 
-Academic/research project involving a reconfigurable antenna using PIN diode switching for IoT applications.
+</td>
+</tr>
 
-Tech: Antenna Design • RF • MATLAB • IoT
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/HimanshuNim"> View Repository → </a> </td> </tr> </table>
-GitHub Analytics
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshuNim&theme=github_dark" width="100%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HimanshuNim&theme=github_dark" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HimanshuNim&theme=github_dark" width="49%" /> </p> <p align="center"> <img src="https://github-readme-streak-vercel.vercel.app?user=HimanshuNim&theme=github-dark-blue&hide_border=true" width="100%" /> </p>
-Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuNim&theme=github-compact&hide_border=true" width="100%" alt="Himanshu Nimrad GitHub Activity Graph" /> </p>
-GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=HimanshuNim&theme=flat&no-frame=true&no-bg=true&margin-w=10" width="100%" alt="GitHub Trophies" /> </p>
-Coding Profiles
-<p align="center"> <a href="https://leetcode.com/code-himanshuuu/"> <img src="https://img.shields.io/badge/LeetCode-code--himanshuuu-orange?style=for-the-badge&logo=leetcode&logoColor=white"/> </a> <a href="https://www.geeksforgeeks.org/user/himanshunimgfg/"> <img src="https://img.shields.io/badge/GeeksforGeeks-himanshunimgfg-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> </a> </p>
-Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/himanshu-nimrad"> <img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Nimrad-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:himanshunimrad@gmail.com"> <img src="https://img.shields.io/badge/Email-himanshunimrad%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://instagram.com/himanshu_nimrad"> <img src="https://img.shields.io/badge/Instagram-himanshu__nimrad-purple?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
-<p align="center"> <i>Building software, solving problems, and occasionally debugging both.</i> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=HimanshuNim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
+## Android Geofencing Safety App
+
+An Android application that monitors predefined geographic boundaries and triggers alerts when the user enters or exits them.
+
+**Built with**
+
+`Java` `Android` `Geofencing` `Location Services`
+
+**Highlights**
+
+* Geofencing
+* Location monitoring
+* Entry/exit detection
+* Safety notifications
+
+<a href="https://github.com/HimanshuNim">
+  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## Reconfigurable Antenna for IoT
+
+Academic research project focused on frequency reconfiguration for IoT applications using PIN diode switching.
+
+**Built with**
+
+`MATLAB` `RF` `Antenna Design` `IoT`
+
+**Highlights**
+
+* Reconfigurable antenna
+* PIN diode switching
+* S-parameter analysis
+* VSWR analysis
+
+<a href="https://github.com/HimanshuNim">
+  <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# `github_analytics`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimanshuNim&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HimanshuNim&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HimanshuNim&theme=github_dark" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HimanshuNim&theme=github_dark&utcOffset=5.5" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HimanshuNim&theme=github_dark" width="49%" />
+</p>
+
+---
+
+# `contribution_activity`
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HimanshuNim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
+---
+
+# `contribution_streak`
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuNim&theme=github-dark-blue&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+# `github_trophies`
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=HimanshuNim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+    width="100%"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# `coding_profiles`
+
+<p align="center">
+
+<a href="https://leetcode.com/code-himanshuuu/">
+<img src="https://img.shields.io/badge/LeetCode-code--himanshuuu-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/himanshunimgfg/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-himanshunimgfg-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# `connect`
+
+<p align="center">
+
+<a href="https://linkedin.com/in/himanshu-nimrad">
+<img src="https://img.shields.io/badge/LinkedIn-Himanshu%20Nimrad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:himanshunimrad@gmail.com">
+<img src="https://img.shields.io/badge/Email-himanshunimrad-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/himanshu_nimrad">
+<img src="https://img.shields.io/badge/Instagram-himanshu__nimrad-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<a href="https://github.com/HimanshuNim">
+  <img src="https://img.shields.io/badge/GitHub-HimanshuNim-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <sub>Made with Java, curiosity, and too many commits.</sub>
+</p>

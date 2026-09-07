@@ -124,72 +124,24 @@ My ECE background gives me an additional perspective on **IoT, embedded systems,
 
 <td width="50%" valign="top">
 
-## Student Management System
+## JobFlow
 
-A Java-based application for managing student information and records.
-
-**Built with**
-
-`Java` `MySQL` `JDBC` `OOP`
-
-**Highlights**
-
-* Student record management
-* Database integration
-* CRUD operations
-* Object-oriented architecture
-
-<a href="https://github.com/himanshunim">
-<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## Library Management System
-
-A Java application designed to manage books, users and library operations.
+A full-stack job application management platform that helps users organize job applications and manage resumes from a centralized dashboard.
 
 **Built with**
 
-`Java` `MySQL` `OOP`
+`Java` `Spring Boot` `React` `MySQL` `JPA` `JWT`
 
 **Highlights**
 
-* Book management
-* User management
-* Search functionality
-* Database-driven operations
+* Job application management
+* Resume upload and management
+* Application tracking
+* Secure JWT authentication
+* REST API architecture
+* User-specific application and resume data
 
-<a href="https://github.com/himanshunim">
-<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Android Geofencing Safety App
-
-An Android application that monitors predefined geographic boundaries and triggers alerts when the user enters or exits them.
-
-**Built with**
-
-`Java` `Android` `Geofencing` `Location Services`
-
-**Highlights**
-
-* Geofencing
-* Location monitoring
-* Entry/exit detection
-* Safety notifications
-
-<a href="https://github.com/himanshunim">
+<a href="https://github.com/HimanshuNim">
 <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -199,7 +151,7 @@ An Android application that monitors predefined geographic boundaries and trigge
 
 ## Reconfigurable Antenna for IoT
 
-A reconfigurable microstrip antenna designed and simulated for IoT applications using PIN diode switching.
+A reconfigurable microstrip antenna designed and simulated for IoT applications using PIN diode switching and electromagnetic analysis.
 
 **Built with**
 
@@ -209,11 +161,12 @@ A reconfigurable microstrip antenna designed and simulated for IoT applications 
 
 * Reconfigurable microstrip antenna
 * PIN diode switching
+* Multiple operating frequencies
 * S-parameter analysis
 * VSWR analysis
 * Electromagnetic simulation
 
-<a href="https://github.com/himanshunim">
+<a href="https://github.com/HimanshuNim">
 <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
@@ -224,35 +177,6 @@ A reconfigurable microstrip antenna designed and simulated for IoT applications 
 
 ---
 
-# `github_analytics`
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshunim&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=himanshunim&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshunim&theme=github_dark" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshunim&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshunim&theme=github_dark&utcOffset=5.5" width="49%" />
-</p>
-
----
-
-# `contribution_activity`
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=himanshunim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
----
 
 # `contribution_streak`
 
@@ -261,18 +185,6 @@ A reconfigurable microstrip antenna designed and simulated for IoT applications 
     src="https://streak-stats.demolab.com?user=himanshunim&theme=github-dark-blue&hide_border=true"
     width="100%"
     alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# `github_trophies`
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=himanshunim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
-    width="100%"
-    alt="GitHub Trophies"
   />
 </p>
 

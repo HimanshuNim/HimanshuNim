@@ -126,7 +126,7 @@ My ECE background gives me an additional perspective on **IoT, embedded systems,
 
 ## JobFlow
 
-A full-stack job application management platform that helps users organize job applications and manage resumes from a centralized dashboard.
+A full-stack job application tracker that helps users manage job applications and resumes from a centralized platform.
 
 **Built with**
 
@@ -134,14 +134,14 @@ A full-stack job application management platform that helps users organize job a
 
 **Highlights**
 
-* Job application management
+* Job application tracking
 * Resume upload and management
-* Application tracking
-* Secure JWT authentication
+* Application status management
+* Secure user authentication
 * REST API architecture
-* User-specific application and resume data
+* User-specific data management
 
-<a href="https://github.com/HimanshuNim">
+<a href="https://github.com/HimanshuNim/jobflow">
 <img src="https://img.shields.io/badge/View%20Project-58A6FF?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
